@@ -1,0 +1,26 @@
+{
+  "name": "demo-gitpod-function",
+  "version": "0.0.0",
+  "main": "bin/www",
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "ejs": "~2.6.1",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "morgan": "~1.9.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/juannguyenicd/demo-gitpod-function.git"
+  },
+  "author": "juannguyenicd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juannguyenicd/demo-gitpod-function/issues"
+  },
+  "homepage": "https://github.com/juannguyenicd/demo-gitpod-function#readme"
+}
